@@ -2,7 +2,7 @@ Project: World Agricultural Supply and Demand Estimates Revenue in 2024.
 
 Summary:
 
-The project will examine the revenue from the financial report of each country of the production of wheat from the World Agricultural Supply and Demand Estimates in 2024. I will demonstrate with the use of Pytorch to extract the information from the dataset from the financial report (WASDE). I will use AI to analyze the information from the dataset. I will show you with the use of Pandas to clean and analyze the revenue from the dataset of the wheat production.  I will show you with the use of  Gemini to prompt your answers and your questions from the dataset of World Agricultural Supply and Demand Estimates in LLM.
+The project will examine the revenue from the financial report of each country regarding the production of wheat, as reported in the World Agricultural Supply and Demand Estimates (WASDE) for 2024. The use of Pytorch will be demonstrated to extract information from the WASDE dataset. AI will be utilized to analyze the profits from exports and imports of goods within this dataset. Pandas will be used for data cleaning and to analyze the revenue detailed in the WASDE financial report. Additionally, LangChain will be employed to prompt questions and answers based on the WASDE dataset.
 
 Computer Skills: Pandas, Numpy,  Matplotlib, Langchain, LLM and Gemini.
 
